@@ -1,9 +1,9 @@
-html{
+body{
   box-sizing: border-box;
   background: url("./photo-1521017432531-fbd92d768814.jpg") center no-repeat;
   background-size: cover;
   min-height: 100vh;
-  display: flex;
+  /* display: flex; */
   justify-content: center;
   align-items: center;
   text-align: center;
@@ -76,14 +76,20 @@ h2 {
   border: 1px solid rgba(0, 0, 0, 0.1);
   margin: 2px;
 }
- footer{
-     margin-top: 50%;
-color: aliceblue;
- }
- .git{
+footer{
+     margin-top: 20%;
+
+ } 
+ 
+ 
+ 
+ 
+ 
+ /*  */
+ /* .git{
      margin: 5%;
  }
  .tex{
    text-decoration: none;
    color: aqua;
- }
+ } */
